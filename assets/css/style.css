@@ -16,6 +16,9 @@ footer{
     background: rgb(255, 222, 38);
     text-align: right;
 }
+footer h2{
+    text-align: center;
+}
 footer nav ul li a{
     color: tomato;
 }
